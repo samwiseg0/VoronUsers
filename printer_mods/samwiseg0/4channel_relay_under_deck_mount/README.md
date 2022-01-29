@@ -1,5 +1,5 @@
 # 4 Channel Relay Under Deck Mount
-Designed to mount a 4 channel GPIO controlled relay.
+Mod to mount a 4 channel GPIO controlled relay in the electronics compartment.
 
 ### Printing
   * Default voron settings
